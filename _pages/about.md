@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am Shirui Sheng! I am currently a Ph.D. Candidate in IC Design & Hardware Security for AI applications at Nanyang Technological University (NTU), Singapore, where I am supervised by Prof. Bah-Hwee Gwee[cite: 1]. 
 
 Before that, I received my Joint M.Sc. in Integrated Circuit Design from the Technical University of Munich (TUM) & NTU in 2024[cite: 1], and my Bachelor's degree in Microelectronics Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022[cite: 1]. 
-
+  
 My research mainly focuses on **Hardware Security and AI Safety**[cite: 1]. Specifically, I am interested in exploring:
 * **Hardware Cryptography & SCA Resilience**: Designing High-Bandwidth Secure Encrypted Memory and adaptive defense mechanisms against physical vulnerabilities in AI applications[cite: 1].
 * **AI Alignment & Safety Constraints**: Establishing scalable and trustworthy safety constraints for Embodied AI and safety-critical robotic systems against high-stakes physical vulnerabilities[cite: 1].
