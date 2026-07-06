@@ -8,32 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am [你的英文名，如 Shirui Sheng]! I am currently a [你的职位/身份，如 Ph.D. student / Master student / Postdoc] at [你的学校/机构全称，如 Carnegie Mellon University], where I am advised by Prof. [你的导师名字]. 
+Hi, I am Shirui Sheng! I am currently a Ph.D. Candidate in IC Design & Hardware Security for AI applications at Nanyang Technological University (NTU), Singapore, where I am supervised by Prof. Bah-Hwee Gwee[cite: 1]. 
 
-Before that, I received my Bachelor's degree from [你本科学校的名字] in [本科毕业年份]. 
+Before that, I received my Joint M.Sc. in Integrated Circuit Design from the Technical University of Munich (TUM) & NTU in 2024[cite: 1], and my Bachelor's degree in Microelectronics Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022[cite: 1]. 
 
-My research mainly focuses on **[你的主要研究大方向，例如 Machine Learning, Robotics, Computer Vision]**. Specifically, I am interested in exploring:
-* **[细分研究方向 1]**: [一句话描述，例如 Safe Reinforcement Learning]
-* **[细分研究方向 2]**: [一句话描述，例如 Human-Robot Interaction]
-* **[细分研究方向 3]**: [一句话描述，例如 Trustworthy AI]
+My research mainly focuses on **Hardware Security and AI Safety**[cite: 1]. Specifically, I am interested in exploring:
+* **Hardware Cryptography & SCA Resilience**: Designing High-Bandwidth Secure Encrypted Memory and adaptive defense mechanisms against physical vulnerabilities in AI applications[cite: 1].
+* **AI Alignment & Safety Constraints**: Establishing scalable and trustworthy safety constraints for Embodied AI and safety-critical robotic systems against high-stakes physical vulnerabilities[cite: 1].
+* **Energy-Efficient On-Device AI**: Developing hardware-efficient architectures like Spiking Neural Networks (SNNs) and trustworthy BMI architectures for high-reliability processing[cite: 1].
 
-*(如果你正在寻找实习、工作或合作，可以加上下面这句话，如果没有可以删掉)*
-**I am currently looking for full-time positions / internships starting in [年份]! Please feel free to contact me.**
+**I am currently seeking the Singapore AI Safety Fellowship to leverage my expertise in bridging bottom-up hardware security with top-down AI alignment[cite: 1].**
 
 <br>
 
 ## 🔥 News
-*(以下是示例，按照时间倒序排列，保留最近的几条即可)*
 
-* **[Aug 2026]** 🎉 One paper is accepted to [会议名称，如 NeurIPS 2026]! 
-* **[May 2026]** 💼 I started my summer internship at [公司名称，如 Google DeepMind].
-* **[Feb 2026]** 🏆 I was awarded the [奖项名称，如 National Scholarship].
-* **[Sep 2025]** 🏫 I joined [你的学校名称] as a [你的身份, 如 graduate student]!
+* **[May 2026]** 🎉 I passed my Ph.D. Qualifying Examination (QE) with distinction[cite: 1]!
+* **[2025]** 📝 Our manuscript on Dual-Dynamic-Voltage-Scaling Asynchronous AES-128 Engine is under major revision at IEEE Journal of Solid-State Circuits (JSSC)[cite: 1].
+* **[Aug 2024]** 🏫 I joined NTU as a Doctoral Researcher and received the full Ph.D. NTU Research Scholarship (NTU-RSS)[cite: 1].
+* **[Jun 2024]** 💼 I started my research internship at EPFL (Lausanne, Switzerland), focusing on Trustworthy BMI Architecture[cite: 1].
+* **[Mar 2024]** 🏆 I was awarded the DAAD Scholarship for the second time[cite: 1].
 
 <br>
 
 ## 📖 Selected Publications
-*(如果你想在首页直接展示几篇最自豪的论文，可以放在这里，如果不想要可以直接删除)*
 
-* **[你的论文标题]** **Shirui Sheng**, [合作者1], [合作者2], [通讯作者]  
-  *International Conference on Learning Representations (ICLR), 2026* [[Paper](你的论文PDF链接)] [[Code](你的Github仓库链接)] [[Website](项目主页链接)]
+* **Dual-Dynamic-Voltage-Scaling Asynchronous AES-128 Engine With High Side-Channel-Attack Resilience**[cite: 1]  
+  **Shirui Sheng**, J.-S. Ng, J. Chen, X. Liang, N. A. Kyaw, K.-S. Chong, C. Wang, and B.-H. Gwee[cite: 1]  
+  *Manuscript submitted for publication in IEEE Journal of Solid-State Circuits (JSSC) (major revision)*[cite: 1]
+
+* **N-MUX: Neighborhood-Based Logic Locking Against Machine Learning Attacks**[cite: 1]  
+  H. Zhang, **Shirui Sheng**, et al.[cite: 1]  
+  *2025 IEEE International Symposium on Circuits and Systems (ISCAS)*[cite: 1]
+
+* **An Energy-Efficient and High-Accuracy Spiking Neural Network Utilizing Asynchronous CORDIC for On-FPGA STDP Learning**[cite: 1]  
+  **Shirui Sheng**, K.-S. Chong, et al.[cite: 1]  
+  *2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*[cite: 1]
